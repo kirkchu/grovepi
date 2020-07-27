@@ -1,7 +1,7 @@
 from grovepi import *
 import time
 
-port = 2
+port = 5
 
 pinMode(port, "OUTPUT")
 
